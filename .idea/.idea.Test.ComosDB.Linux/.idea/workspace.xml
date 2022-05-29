@@ -8,12 +8,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e004b42-7149-44ef-8649-92cf1fb59389" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Test.ComosDB.Linux/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CosmosDb.Linux.Api/CosmosDb.Linux.Api.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test.CosmosDB.Linux.sln" afterDir="false" />
-    </list>
+    <list default="true" id="4e004b42-7149-44ef-8649-92cf1fb59389" name="Changes" comment="First commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,8 +82,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1653834742244</updated>
-      <workItem from="1653834755261" duration="3276000" />
+      <workItem from="1653834755261" duration="3635000" />
     </task>
+    <task id="LOCAL-00001" summary="First commit">
+      <created>1653838377007</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1653838377007</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,5 +112,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="First commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
   </component>
 </project>
